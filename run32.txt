@@ -1,0 +1,1 @@
+﻿"C:\WINDOWS\system32\rundll32.exe" C:\WINDOWS\system32\shell32.dll,Control_RunDLL "C:\WINDOWS\System32\imdisk.cpl",ImDisk Virtual Disk Driver
