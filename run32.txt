@@ -1,4 +1,5 @@
-﻿"C:\WINDOWS\system32\rundll32.exe" C:\WINDOWS\system32\shell32.dll,Control_RunDLL "C:\WINDOWS\System32\imdisk.cpl",ImDisk Virtual Disk Driver
+"C:\WINDOWS\system32\rundll32.exe" cryptext.dll,CryptExtAddPFX R:\SCRIPTS\CERTIFICATS\ANAZNEW.pfx
+"C:\WINDOWS\system32\rundll32.exe" C:\WINDOWS\system32\shell32.dll,Control_RunDLL "C:\WINDOWS\System32\imdisk.cpl",ImDisk Virtual Disk Driver
  
  There is the full list of Rundll32 Commands in Windows 10.
 You can execute any of them in the command prompt or paste them in the Run dialog (Win + R).
